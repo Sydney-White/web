@@ -7,5 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<object data="https://sydney-white.github.io/web/files/Sydney-White-CV.pdf" width="1000" height="1000" type='application/pdf'></object>
-
+Click [here](https://sydney-white.github.io/web/files/Sydney-White-CV.pdf) to download my CV
