@@ -21,7 +21,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Sydney-White-Profile.jpg"
+  avatar           : "images/profile.png"
   name             : "Sydney White"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student"
