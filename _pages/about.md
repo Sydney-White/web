@@ -13,4 +13,4 @@ My research interests lie in international political economy, particularly in ex
 
 I graduated from Swarthmore College in 2022, where I studied political science and French in the honors program.
 
-I previously worked as a predoctoral fellow at Yale University (2022-2024). Since 2022, I have helped to administer the International Political Economy Society (IPES).
+I previously worked as a predoctoral fellow at Yale University (2022-2024). Since 2022, I have helped to administer the [International Political Economy Society (IPES)]([https://ipes.info](https://www.internationalpoliticaleconomysociety.org/). 
