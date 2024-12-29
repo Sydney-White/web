@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Click [here](https://sydney-white.github.io/web/files/Sydney-White-CV.pdf) to download my CV
+Click [here](https://sydney-white.github.io/web/files/Sydney-White-CV.pdf) to download the most recent version of my CV
