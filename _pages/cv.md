@@ -7,4 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://sydney-white.github.io/web/files/Sydney-White-CV.pdf" width="100%" height="850px"> 
+<iframe src="Sydney-White/files/Sydney-White-CV.pdf" width="100%" height="700" style="border: none;"></iframe>
+
