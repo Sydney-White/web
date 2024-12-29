@@ -22,6 +22,7 @@ repository               : ""
 author:
   # Biographic information
   avatar           : "https://sydney-white.github.io/web/images/profile.png"
+    avatar_style: "width: 150px; height: 150px; border-radius: 50%; object-fit: cover;"
   name             : "Sydney White"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student"
