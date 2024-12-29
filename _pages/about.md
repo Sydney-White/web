@@ -9,7 +9,7 @@ redirect_from:
 
 I am a first-year PhD student in Political Science at Columbia University. 
 
-My research interests lie in international political economy, particularly in examining the political effects of financial crises and financialization in advanced economies. I became interested in financial history, financialization, and international political economy more broadly after I spent two summers working in finance as an undergraduate. 
+My research interests lie in international political economy, particularly in examining the political effects of financial crises and financialization in advanced economies. I became interested in financial history, financialization, and international political economy more broadly after working in the industry during my undergrad. 
 
 I graduated from Swarthmore College in 2022, where I studied political science and French in the honors program.
 
