@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in Political Science at Columbia University. 
+I am a second-year PhD student in Political Science at Columbia University. 
 
 My research interests lie in international political economy, particularly in the politics of finance and trade. 
 
