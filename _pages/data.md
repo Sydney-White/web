@@ -4,22 +4,16 @@ title: Data
 author_profile: true
 ---
 
-This page shares data resources that I've collected with co-authors over time.  
-
-### Historical Dataset on U.S. Governors
-
-In collaboration with information science researchers at the University of Washington, Seattle, below is a dataset that contains information on the biographical backgrounds of United States governors (of states and territories) from 1775 to the present.
-
-- **Dataset**: *A Historical Dataset on Governors of the United States and Its Territories*  
-- **Authors**: Sydney White, Theo Serlin, Neel Gupta, and Kenneth Scheve  
-- **Release Date**: September 2025  
-- **Access**: [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/posts/gubernatorial-bios/)  
-- (The dataset will also be available on the Harvard Dataverse -- Data TBA) 
+This page provides descriptions of data resources connected to my ongoing research in comparative and international political economy. Some datasets are already publicly available, while others are forthcoming.  
 
 ---
 
-*Furnace-Level Dataset of Iron and Steel Production, 1880-1916*
+### Historical Dataset on U.S. Governors  
 
-The Furnace-Level Dataset of Iron and Steel Production, 1880-1916 consists of data, collected by the \textit{American Iron and Steel Association }(AISA) and the \textit{American Iron and Steel Institute} (AISI), on the size of iron and steel furnaces in the United States during the Second Industrial Revolution. It includes details such as the year of operation, furnace name, firm owner, location of the firm (county/city and state), and the total production capacity of the furnace in gross tons. We combine production capacity across steel and iron products in order to measure broad industry concentration relevant for studying the impact of market power in the steel and iron industry on political outcomes. 
+In collaboration with researchers at the University of Washington, Seattle, I have published *A Historical Dataset on Governors of the United States and Its Territories* (Sydney White, Theo Serlin, Neel Gupta, and Kenneth Scheve, September 2025). This dataset compiles information on the biographical backgrounds of governors of U.S. states and territories from 1775 to the present. It is accessible through [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/posts/gubernatorial-bios/) and will also be archived on the Harvard Dataverse for long-term access.  
 
-Access TBA 
+---
+
+### Furnace-Level Dataset of Iron and Steel Production, 1880–1916  
+
+The *Furnace-Level Dataset of Iron and Steel Production, 1880–1916* draws on records collected by the American Iron and Steel Association (AISA) and the American Iron and Steel Institute (AISI). It provides detailed information on the size and output of iron and steel furnaces in the United States during the Second Industrial Revolution, including year of operation, furnace name, firm owner, location (county/city and state), and total production capacity in gross tons. Production capacity is aggregated across iron and steel products to capture broad industry concentration, enabling analysis of how market power in these industries influenced political outcomes.  
