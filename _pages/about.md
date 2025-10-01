@@ -13,5 +13,7 @@ My research interests lie in international political economy, particularly in th
 
 I graduated from Swarthmore College in 2022, where I studied Political Science and French in the honors program.I previously worked as a predoctoral fellow at Yale University (2022-2024).
 
-**Working Papers: **
+**Working Papers:**
+
+“Market Power and Distorted Democracy in the Progressive Era” (with Ken Scheve, Theo Serlin, Sydney White). 
 
