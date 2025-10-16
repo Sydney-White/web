@@ -10,7 +10,7 @@ This page provides descriptions of data resources connected to my ongoing resear
 
 ### Historical Dataset on U.S. Governors  
 
-In collaboration with researchers at the University of Washington, Seattle, I have published *A Historical Dataset on Governors of the United States and Its Territories* (Sydney White, Theo Serlin, Neel Gupta, and Kenneth Scheve, September 2025). This dataset compiles information on the biographical backgrounds of governors of U.S. states and territories from 1775 to the present. It is accessible through [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/posts/gubernatorial-bios/) and will also be archived on the Harvard Dataverse for long-term access.  
+In collaboration with researchers at the University of Washington, Seattle, I have published *A Historical Dataset on Governors of the United States and Its Territories* (Sydney White, Theo Serlin, Neel Gupta, and Kenneth Scheve, September 2025). This dataset compiles information on the biographical backgrounds of governors of U.S. states and territories from 1775 to the present. It is accessible through [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/posts/gubernatorial-bios/) and will also be archived on the Harvard Dataverse for long-term access. As co-authors and I will not be using this data, we would like to make it available for public use. 
 
 ---
 
