@@ -15,5 +15,5 @@ I graduated from Swarthmore College in 2022, where I studied Political Science a
 
 **Working Papers:**
 
-“Market Power and Distorted Democracy in the Progressive Era” (with Ken Scheve, Theo Serlin, Sydney White). 
+“Market Power and Distorted Democracy in the Progressive Era” (Kenneth Scheve, Theo Serlin, Sydney White) 
 
