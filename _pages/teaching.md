@@ -8,4 +8,4 @@
 
 - Supported the math camp taught by Professor Adam Meirowitz.  
 - Coordinated with the department registrar and organized additional office hours on linear algebra, calculus, and probability.  
-- Delivered a guest lecture introducing students to basic linear regression in R using matrix notation.  
+- Delivered a guest lecture introducing students to basic linear regression in R.
