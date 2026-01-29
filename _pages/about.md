@@ -9,9 +9,9 @@ redirect_from:
 
 I am a second-year PhD student in Political Science at Columbia University. 
 
-My research interests lie in comparative and international political economy, particularly in the politics of finance and trade. 
+I graduated from Swarthmore College in 2022. I previously worked as a predoctoral fellow at Yale University (2022-2024).
 
-I graduated from Swarthmore College in 2022, where I studied Political Science and French in the honors program. I previously worked as a predoctoral fellow at Yale University (2022-2024).
+My research interests lie in comparative and international political economy, particularly in the politics of finance and trade. My research is generously funded by the Center for Political Economy at Columbia. 
 
 **Working Papers:**
 
