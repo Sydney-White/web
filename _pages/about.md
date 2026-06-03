@@ -15,4 +15,4 @@ My research interests lie in comparative and international political economy, pa
 
 **Working Papers:**
 
-[“Market Power and Distorted Democracy in the Progressive Era”](/files/Market_Power.pdf) (Kenneth Scheve, Theo Serlin, Sydney White)
+[“Market Power and Distorted Democracy in the Progressive Era”](/web/files/Market_Power.pdf) (Kenneth Scheve, Theo Serlin, Sydney White)
