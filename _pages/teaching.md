@@ -12,3 +12,7 @@ author_profile: true
 
 ### Yale University, August 2023  
 **Teaching Assistant**, PhD Math Camp (Department of Political Science)  
+
+### Additional Training 
+
+During the 2026-2027 academic year, I will serve as the Columbia Political Science Department's Lead Teaching Fellow. This is a full-year fellowship in collaboration Columbia's Center for Teaching and Learning. 
