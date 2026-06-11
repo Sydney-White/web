@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: About me
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,4 +15,4 @@ My research interests lie in comparative and international political economy, pa
 
 **Working Papers:**
 
-[“Market Power and Distorted Democracy in the Progressive Era”]({{ site.baseurl }}/files/Market_Power.pdf)
+[“Market Power and Distorted Democracy in the Progressive Era”]({{ "/files/Market_Power.pdf" | relative_url }}) (Kenneth Scheve, Theo Serlin, Sydney White)
