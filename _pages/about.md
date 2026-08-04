@@ -9,7 +9,8 @@ redirect_from:
 
 I am a third-year PhD student in Political Science at Columbia University. 
 
-My research interests lie in comparative and international political economy, particularly the politics of finance and its intersection with media.
+My research interests lie in comparative and international political economy, particularly the politics of finance and its intersection with media. My research is generously supported by the Center for Political Economy at Columbia. 
+
 I graduated from Swarthmore College in 2022, and previously worked as a predoctoral fellow at Yale University (2022–2024).
 
 **Working Papers:**
