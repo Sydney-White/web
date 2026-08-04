@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in Political Science at Columbia University. 
+I am a third-year PhD student in Political Science at Columbia University. 
 
 I graduated from Swarthmore College in 2022. I previously worked as a predoctoral fellow at Yale University (2022-2024).
 
