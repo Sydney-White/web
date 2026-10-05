@@ -4,6 +4,9 @@ title: Teaching
 author_profile: true
 ---
 
+### Columbia University, Fall 2026 / Spring 2027 
+Teaching Assistant for Professor Timothy Frye, *Honors Seminar* (Undergraduate) 
+
 ### Columbia University, Spring 2026 
 **Teaching Assistant** for Professor John Marshall, *Statistical Theory and Causal Inference* (Graduate course)  
 
